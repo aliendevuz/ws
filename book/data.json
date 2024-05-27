@@ -1,0 +1,21 @@
+{
+  "data" : "Language book",
+  "folders" : [
+    {
+      "name" : "little",
+      "type" : "E"
+    },
+    {
+      "name" : "essential",
+      "type" : "E"
+    },
+    {
+      "name" : "vocabulary",
+      "type" : "D"
+    },
+    {
+      "name" : "pictionary",
+      "type" : "DWP"
+    }
+  ]
+}
